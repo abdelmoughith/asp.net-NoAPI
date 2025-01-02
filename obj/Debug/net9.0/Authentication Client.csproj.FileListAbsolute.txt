@@ -1,0 +1,513 @@
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/appsettings.json
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Authentication Client.staticwebassets.runtime.json
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Authentication Client.staticwebassets.endpoints.json
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Authentication Client.exe
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Authentication Client.deps.json
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Authentication Client.runtimeconfig.json
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Authentication Client.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Authentication Client.pdb
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/Authentication Client.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/Authentication Client.AssemblyInfoInputs.cache
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/Authentication Client.AssemblyInfo.cs
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/Authentication Client.csproj.CoreCompileInputs.cache
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/Authentication Client.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/scopedcss/bundle/Authentication Client.styles.css
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.Authentication Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.Authentication Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.build.Authentication Client.props
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Authentication Client.props
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Authentication Client.props
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/staticwebassets.pack.json
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/Authentication Client.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/refint/Authentication Client.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/Authentication Client.pdb
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/Authentication Client.genruntimeconfig.cache
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/ref/Authentication Client.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/Authentication Client.csproj.AssemblyReference.cache
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/obj/Debug/net9.0/Authenti.5C2AB9AB.Up2Date
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.Security.Permissions.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.Windows.Extensions.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Humanizer.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Mono.TextTemplating.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.CodeDom.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.Composition.Convention.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.Composition.Hosting.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.Composition.Runtime.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.Composition.TypedParts.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Azure.Core.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Azure.Identity.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.ClientModel.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.Drawing.Common.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.Memory.Data.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/System.Runtime.Caching.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Client/Authentication Client/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/appsettings.Development.json
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/appsettings.json
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Authentication Client.staticwebassets.runtime.json
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Authentication Client.staticwebassets.endpoints.json
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Authentication Client
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Authentication Client.deps.json
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Authentication Client.runtimeconfig.json
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Authentication Client.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Authentication Client.pdb
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Azure.Core.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Azure.Identity.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Humanizer.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.ClientModel.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.CodeDom.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.Drawing.Common.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.Memory.Data.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.Runtime.Caching.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.Security.Permissions.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/System.Windows.Extensions.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/Authentication Client.csproj.AssemblyReference.cache
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/Authentication Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/Authentication Client.AssemblyInfoInputs.cache
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/Authentication Client.AssemblyInfo.cs
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/Authentication Client.csproj.CoreCompileInputs.cache
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/Authentication Client.MvcApplicationPartsAssemblyInfo.cache
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/scopedcss/bundle/Authentication Client.styles.css
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/staticwebassets.build.json
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/staticwebassets.development.json
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.Authentication Client.Microsoft.AspNetCore.StaticWebAssets.props
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.Authentication Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.build.Authentication Client.props
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Authentication Client.props
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Authentication Client.props
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/staticwebassets.pack.json
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/Authenti.5C2AB9AB.Up2Date
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/Authentication Client.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/refint/Authentication Client.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/Authentication Client.pdb
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/Authentication Client.genruntimeconfig.cache
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/ref/Authentication Client.dll
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/Authentication Client.RazorAssemblyInfo.cache
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/Authentication Client.RazorAssemblyInfo.cs
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/m29k6218iv-ya9z6odo65.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/y7o0u2ltku-u43hh2khxx.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/tqbiixsaiy-vbi3f9b1km.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/78up666l5i-pfslj4f41e.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/2gtikf2iwu-591ybqkhud.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/zb2efhzx93-r1hye14rqe.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/mhmsp3594v-4cpzj38bla.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/r858ph1fd9-s1z0o21rrk.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/wcomi5u1wd-fynx4m6ffa.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/d1zrqzgncp-j3wy3vomxf.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/qv9e1474az-3sqe7mmf4b.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/jyzee79x7m-bvb3mcnxs0.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/en63m44dpb-rstaz3qrjg.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/xvio3t76az-1ktijcimzc.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/phzoy4x5dk-8vqiqdzfsy.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/4dih7er31t-xre24ck5s9.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/11qsqon6a8-8n2dly420e.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/muxzhpvowu-tqmx1xnbiy.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/5axdva5p5k-eeexwixyll.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/i44a95f9gq-u3a2f625v3.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/hgtznaen9r-94qvvqzebk.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/kv3a8z1o9n-5bii02sqr4.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/pt11tuovxv-uydiqv09h2.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/jn3d9skvxz-apjpr24drr.gz
+/home/moughit/Downloads/Authentication Client (2)/Authentication Client/obj/Debug/net9.0/compressed/izpaae65mk-v5kyrhpytd.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/appsettings.Development.json
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/appsettings.json
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Authentication Client.staticwebassets.endpoints.json
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Authentication Client.staticwebassets.runtime.json
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Authentication Client
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Authentication Client.deps.json
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Authentication Client.runtimeconfig.json
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Authentication Client.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Authentication Client.pdb
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Azure.Core.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Azure.Identity.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Humanizer.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.ClientModel.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.CodeDom.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.Drawing.Common.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.Memory.Data.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.Runtime.Caching.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.Security.Permissions.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/System.Windows.Extensions.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.csproj.AssemblyReference.cache
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.AssemblyInfoInputs.cache
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.AssemblyInfo.cs
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.csproj.CoreCompileInputs.cache
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.MvcApplicationPartsAssemblyInfo.cache
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.RazorAssemblyInfo.cache
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.RazorAssemblyInfo.cs
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/scopedcss/bundle/Authentication Client.styles.css
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/m29k6218iv-ya9z6odo65.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/y7o0u2ltku-u43hh2khxx.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/tqbiixsaiy-vbi3f9b1km.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/78up666l5i-pfslj4f41e.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/2gtikf2iwu-591ybqkhud.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/zb2efhzx93-r1hye14rqe.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/mhmsp3594v-4cpzj38bla.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/r858ph1fd9-s1z0o21rrk.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/wcomi5u1wd-fynx4m6ffa.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/d1zrqzgncp-j3wy3vomxf.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/qv9e1474az-3sqe7mmf4b.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/jyzee79x7m-bvb3mcnxs0.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/en63m44dpb-rstaz3qrjg.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/xvio3t76az-1ktijcimzc.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/phzoy4x5dk-8vqiqdzfsy.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/4dih7er31t-xre24ck5s9.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/11qsqon6a8-8n2dly420e.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/muxzhpvowu-tqmx1xnbiy.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/5axdva5p5k-eeexwixyll.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/i44a95f9gq-u3a2f625v3.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/hgtznaen9r-94qvvqzebk.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/kv3a8z1o9n-5bii02sqr4.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/pt11tuovxv-uydiqv09h2.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/jn3d9skvxz-apjpr24drr.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/compressed/izpaae65mk-v5kyrhpytd.gz
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/staticwebassets.build.json
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/staticwebassets.development.json
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.Authentication Client.Microsoft.AspNetCore.StaticWebAssets.props
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.Authentication Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.build.Authentication Client.props
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Authentication Client.props
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Authentication Client.props
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/staticwebassets.pack.json
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authenti.5C2AB9AB.Up2Date
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/refint/Authentication Client.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.pdb
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.genruntimeconfig.cache
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/ref/Authentication Client.dll
