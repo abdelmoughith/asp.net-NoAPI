@@ -511,3 +511,4 @@ C:/Users/Moughit/Documents/Project_coding/C#/ASP.NET/GetStated/Authentication Cl
 /home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.pdb
 /home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.genruntimeconfig.cache
 /home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/ref/Authentication Client.dll
+/home/moughit/Downloads/NoAPI/Authentication Client/obj/Debug/net9.0/Authentication Client.sourcelink.json
